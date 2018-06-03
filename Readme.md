@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Gayrat Turaev](https://up.htmlacademy.ru/htmlcss/21/user/548735).
-
+* Наставник: [Светлана Корякина](https://up.htmlacademy.ru/htmlcss/21/user/477401).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
